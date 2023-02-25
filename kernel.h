@@ -6,7 +6,7 @@
 typedef unsigned char UINT8;
 typedef unsigned short UINT16;
 
-#define NULL 0
+#define NULL = 0
 
 
 int DIGIT_ASCII_CODES[10] = {0x30, 0x31, 0x32, 0x33, 0x34, 0x35, 0x36, 0x37, 0x38, 0x39};
